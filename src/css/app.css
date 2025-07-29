@@ -52,7 +52,7 @@
 }
 .svg--container div {
   height: 210px;
-  background: var(--dark-primary) url("../img/espe.jpg");
+  background: var(--dark-primary) url("../img/ESPE.jpg");
   background-position: bottom;
   background-size: cover;
   object-fit: cover;
